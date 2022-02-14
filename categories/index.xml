@@ -6,6 +6,8 @@
     <description>Recent content in Categories on Brainmoustache blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Brainmoustache ©2022</copyright><atom:link href="https://brainmoustache.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>brainmoustache@gmail.com (Brainmoustache)</managingEditor>
+    <webMaster>brainmoustache@gmail.com (Brainmoustache)</webMaster>
+    <copyright>Brainmoustache 2022</copyright><atom:link href="https://brainmoustache.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
