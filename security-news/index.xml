@@ -1,23 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Brainmoustache land</title>
-    <link>https://brainmoustache.github.io/</link>
-    <description>Recent content on Brainmoustache land</description>
+    <title>Security news on Brainmoustache land</title>
+    <link>https://brainmoustache.github.io/security-news/</link>
+    <description>Recent content in Security news on Brainmoustache land</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>brainmoustache@gmail.com (Brainmoustache)</managingEditor>
     <webMaster>brainmoustache@gmail.com (Brainmoustache)</webMaster>
-    <lastBuildDate>Tue, 15 Feb 2022 21:51:36 -0500</lastBuildDate><atom:link href="https://brainmoustache.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Welcome</title>
-      <link>https://brainmoustache.github.io/posts/welcome/</link>
-      <pubDate>Tue, 15 Feb 2022 21:51:36 -0500</pubDate>
-      <author>brainmoustache@gmail.com (Brainmoustache)</author>
-      <guid>https://brainmoustache.github.io/posts/welcome/</guid>
-      <description>First page on this website, no one know what it&amp;rsquo;s coming next.</description>
-    </item>
-    
+    <lastBuildDate>Tue, 15 Feb 2022 21:41:58 -0500</lastBuildDate><atom:link href="https://brainmoustache.github.io/security-news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>16 February 2022</title>
       <link>https://brainmoustache.github.io/security-news/16-february-2022/</link>
