@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://brainmoustache.github.io/security-news/18-february-2022/</loc>
-    <lastmod>2022-02-18T08:19:00-05:00</lastmod>
+    <loc>https://brainmoustache.github.io/security-news/21-february-2022/</loc>
+    <lastmod>2022-02-21T08:55:54-05:00</lastmod>
   </url><url>
     <loc>https://brainmoustache.github.io/</loc>
-    <lastmod>2022-02-18T08:19:00-05:00</lastmod>
+    <lastmod>2022-02-21T08:55:54-05:00</lastmod>
   </url><url>
     <loc>https://brainmoustache.github.io/security-news/</loc>
+    <lastmod>2022-02-21T08:55:54-05:00</lastmod>
+  </url><url>
+    <loc>https://brainmoustache.github.io/security-news/18-february-2022/</loc>
     <lastmod>2022-02-18T08:19:00-05:00</lastmod>
   </url><url>
     <loc>https://brainmoustache.github.io/security-news/17-february-2022/</loc>
