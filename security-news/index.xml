@@ -8,7 +8,16 @@
     <language>en-us</language>
     <managingEditor>brainmoustache@gmail.com (Brainmoustache)</managingEditor>
     <webMaster>brainmoustache@gmail.com (Brainmoustache)</webMaster>
-    <lastBuildDate>Thu, 24 Mar 2022 08:39:54 -0400</lastBuildDate><atom:link href="https://brainmoustache.github.io/security-news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Mar 2022 08:58:38 -0400</lastBuildDate><atom:link href="https://brainmoustache.github.io/security-news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>25 March 2022</title>
+      <link>https://brainmoustache.github.io/security-news/25-march-2022/</link>
+      <pubDate>Fri, 25 Mar 2022 08:58:38 -0400</pubDate>
+      <author>brainmoustache@gmail.com (Brainmoustache)</author>
+      <guid>https://brainmoustache.github.io/security-news/25-march-2022/</guid>
+      <description>Take a look at the security news for today.</description>
+    </item>
+    
     <item>
       <title>24 March 2022</title>
       <link>https://brainmoustache.github.io/security-news/24-march-2022/</link>
